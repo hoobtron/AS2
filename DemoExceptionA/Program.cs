@@ -7,7 +7,7 @@ namespace DemoExceptionA
 {
     class Program
     {
-        private int readLineToInt(string eingabe)
+        private int stringToInt(string eingabe)
         {
             try
             {
@@ -51,11 +51,12 @@ namespace DemoExceptionA
             eingabe = Console.ReadLine();
             // Abbruch bei Eingabe von x
             if (eingabe == "x") return;
-            zahl1 = p.readLineToInt(eingabe);
+            zahl1 = p.stringToInt(eingabe);
 
             Console.Write("Geben Sie eine weitere ganze Zahl ein: ");
             eingabe = Console.ReadLine();
-            zahl2 = p.readLineToInt(eingabe);
+            if (eingabe == "x") return;
+            zahl2 = p.stringToInt(eingabe);
 
             Console.WriteLine("{0} + {1} = {2}", zahl1, zahl2, zahl1 + zahl2);
             Console.WriteLine("{0} - {1} = {2}", zahl1, zahl2, zahl1 - zahl2);
