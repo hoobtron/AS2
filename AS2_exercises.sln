@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{05B2A453-C749-446C-B63F-14D5AC25D9F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumConversion", "ConsoleApplication1\RomanNumConversion.csproj", "{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,16 @@ Global
 		{05B2A453-C749-446C-B63F-14D5AC25D9F2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{05B2A453-C749-446C-B63F-14D5AC25D9F2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{05B2A453-C749-446C-B63F-14D5AC25D9F2}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
