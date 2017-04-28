@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumConversion", "ConsoleApplication1\RomanNumConversion.csproj", "{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{58A98F3C-4FFD-42A2-A2BE-2D4F1AE30043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,16 @@ Global
 		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{DC7E1F4F-7054-40D2-B7B1-1E14A1A48464}.Release|x86.ActiveCfg = Release|Any CPU
+		{58A98F3C-4FFD-42A2-A2BE-2D4F1AE30043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A98F3C-4FFD-42A2-A2BE-2D4F1AE30043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A98F3C-4FFD-42A2-A2BE-2D4F1AE30043}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{58A98F3C-4FFD-42A2-A2BE-2D4F1AE30043}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{58A98F3C-4FFD-42A2-A2BE-2D4F1AE30043}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{58A98F3C-4FFD-42A2-A2BE-2D4F1AE30043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A98F3C-4FFD-42A2-A2BE-2D4F1AE30043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A98F3C-4FFD-42A2-A2BE-2D4F1AE30043}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{58A98F3C-4FFD-42A2-A2BE-2D4F1AE30043}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{58A98F3C-4FFD-42A2-A2BE-2D4F1AE30043}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
